@@ -73,7 +73,7 @@ Key characteristics:
 ## Full Incident Report
 
 The complete report with detailed analysis is available below:
-[Download Full Report (PDF)](./Incident Report - ICMP Flood DoS Attack Analysis (NIST CSF).pdf)
+[Download Full Report (PDF)](./Incident%20Report%20-%20ICMP%20Flood%20DoS%20Attack%20Analysis%20(NIST%20CSF).pdf)
 
 ## Skills Demonstrated
 
