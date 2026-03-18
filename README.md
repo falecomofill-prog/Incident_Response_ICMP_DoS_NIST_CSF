@@ -73,7 +73,7 @@ Key characteristics:
 ## Full Incident Report
 
 The complete report with detailed analysis is available below:
-[Download Full Report (PDF)](https://chatgpt.com/c/Incident_Report_ICMP_Flood.pdf)
+[Download Full Report (PDF)](./Incident Report - ICMP Flood DoS Attack Analysis (NIST CSF).pdf)
 
 ## Skills Demonstrated
 
